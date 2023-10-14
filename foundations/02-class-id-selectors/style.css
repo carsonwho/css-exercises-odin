@@ -1,0 +1,20 @@
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#ID {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+ #four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
